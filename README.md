@@ -22,6 +22,4 @@ Type two usernames from github
 ### Demo
 
 Username: grailwilly <br/>
-AnotherUsername:  
-
-![view.png](/md)
+AnotherUsername:  yourusername
