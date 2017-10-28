@@ -2,6 +2,13 @@
 
 This app compare 2 users from github. It has an algorithm which tells who has the most followed github.
 
+### SAMPLE IMAGES
+![alt-text](images/sample.png)
+
+![alt-text](images/sample1.png)
+
+![alt-text](images/sample2.png)
+
 ## Usage
 
 install dependencies
@@ -23,3 +30,4 @@ Type two usernames from github
 
 Username: grailwilly <br/>
 AnotherUsername:  yourusername
+
